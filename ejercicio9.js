@@ -14,11 +14,3 @@ const divisibleSumPairs = ( arr, n ) => {
 }
 
 console.log(divisibleSumPairs([1, 2, 3, 4, 5, 6], 5));
-
-
-/*
-i = 0, j = 1
-arr[0] = 1, arr[1] = 3 ? arr[0] < arr[1] 
-1 + 3 = 4 ? / 3 
-
-*/
